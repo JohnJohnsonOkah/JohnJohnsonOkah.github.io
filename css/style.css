@@ -11,3 +11,9 @@
     margin: 5px;
     margin-top: 0px;
 }
+
+#logo a img {
+    
+    height: 90px;
+    padding: 5px;
+}
